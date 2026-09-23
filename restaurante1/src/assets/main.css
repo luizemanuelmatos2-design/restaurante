@@ -3,6 +3,8 @@
 #feedback.section-sand, #reservas.section-sand { background:var(--green); color:#fffdf9; } #feedback.section-sand .eyebrow, #reservas.section-sand .eyebrow { color:#e8ded1; } #feedback.section-sand .body-copy, #reservas.section-sand .lead { color:#e8ded1; } #feedback.section-sand blockquote { color:var(--ink); } #feedback.section-sand blockquote cite { color:var(--red); }
 .section-reserva { background-image:linear-gradient(90deg,rgba(41,35,32,.94) 0%,rgba(41,35,32,.78) 45%,rgba(41,35,32,.38) 100%),url('https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=1800&q=85'); background-position:center; background-size:cover; color:#fffdf9; }
 .section-reserva .eyebrow { color:#e8ded1; } .section-reserva .lead { color:#e8ded1; }
+.section-feedback { background-image:linear-gradient(90deg,rgba(41,35,32,.94) 0%,rgba(41,35,32,.78) 45%,rgba(41,35,32,.34) 100%),url('https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1800&q=85'); background-position:center; background-size:cover; color:#fffdf9; }
+.section-feedback .eyebrow { color:#e8ded1; } .section-feedback .body-copy { color:#e8ded1; } .section-feedback blockquote { color:var(--ink); } .section-feedback blockquote cite { color:var(--red); }
 
 #app { overflow: hidden; }
 :root { --ink:#292320; --cream:#f7f2e9; --white:#fffdf9; --red:#bc4d36; --gold:#e1a63b; --green:#526b57; --muted:#796f67; }
