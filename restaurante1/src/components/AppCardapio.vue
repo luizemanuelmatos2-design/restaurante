@@ -8,7 +8,7 @@ const categories = ['Todos', 'Entradas', 'Pratos principais', 'Sobremesas']
 const selectedCategory = ref('Todos')
 const dishes: Dish[] = [
 	{ name: 'Salada da estação', price: 'R$ 28', description: 'Folhas, legumes grelhados, castanhas e vinagrete de ervas.', category: 'Entradas', image: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=900&q=85' },
-	{ name: 'Pão de milho', price: 'R$ 22', description: 'Assado na brasa, manteiga de garrafa e melado da casa.', category: 'Entradas', image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=85' },
+	{ name: 'Pão de milho', price: 'R$ 22', description: 'Assado na brasa, manteiga de garrafa e melado da casa.', category: 'Entradas', image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=85' },
 	{ name: 'Carne na brasa', price: 'R$ 62', description: 'Corte do dia, purê de mandioca e vinagrete de pimenta.', category: 'Pratos principais', image: 'https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&q=85' },
 	{ name: 'Peixe do litoral', price: 'R$ 58', description: 'Pesca sustentável, arroz cremoso e molho de tucupi.', category: 'Pratos principais', image: 'https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=900&q=85' },
 	{ name: 'Doce de leite queimado', price: 'R$ 24', description: 'Crocante de castanha e sorvete de queijo meia cura.', category: 'Sobremesas', image: 'https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=900&q=85' },
