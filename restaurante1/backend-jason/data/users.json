@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "3099b05e-b8ee-4b43-8858-1b32f7c88d82",
+    "nome": "Luiz Emanuel",
+    "email": "luizemanuelmatos2@gmail.com",
+    "criadoEm": "2026-09-30T22:39:49.801Z"
+  },
+  {
+    "id": "7483923e-267d-437c-922b-c3678f1280a3",
+    "nome": "Luiz Emanuel",
+    "email": "luizemanuelmatos2@gmail.com",
+    "criadoEm": "2026-09-30T22:43:08.545Z"
+  },
+  {
+    "id": "4bad09b3-9dad-4687-b310-b157134be2c0",
+    "nome": "Luiz Emanuel Matos da Silva",
+    "email": "luizemanuelmatos2@gmail.com",
+    "criadoEm": "2026-10-01T00:03:03.909Z"
+  }
+]
