@@ -1,0 +1,8 @@
+{
+  "name": "restaurante-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix ./restaurante1/backend-jason start"
+  }
+}

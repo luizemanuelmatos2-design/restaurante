@@ -16,5 +16,28 @@
     "nome": "Luiz Emanuel Matos da Silva",
     "email": "luizemanuelmatos2@gmail.com",
     "criadoEm": "2026-10-01T00:03:03.909Z"
+  },
+  {
+    "id": "1f056589-1633-499a-82f7-b3fe8d34ca2c",
+    "nome": "Alessandro",
+    "email": "alessandro@gmail.com",
+    "criadoEm": "2026-10-01T23:36:26.471Z",
+    "reservas": [
+      {
+        "reservaId": "ea2d4592-c1b7-4563-b808-aca680c1fc8d",
+        "data": "2026-10-02",
+        "horario": "19:30",
+        "pessoas": 2,
+        "observacoes": "",
+        "status": "pendente",
+        "criadoEm": "2026-10-01T23:36:26.471Z"
+      }
+    ],
+    "telefone": "75982445560",
+    "quantidadePessoas": 2,
+    "observacoes": "",
+    "dataReserva": "2026-10-02",
+    "horarioReserva": "19:30",
+    "atualizadoEm": "2026-10-01T23:36:26.471Z"
   }
 ]

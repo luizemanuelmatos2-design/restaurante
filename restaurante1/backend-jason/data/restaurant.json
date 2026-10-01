@@ -1,0 +1,74 @@
+{
+  "menu": [
+    {
+      "id": "salada-estacao",
+      "nome": "Salada da estação",
+      "descricao": "Folhas, legumes grelhados, castanhas e vinagrete de ervas.",
+      "categoria": "Entradas",
+      "preco": 28,
+      "imagem": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=900&q=85",
+      "disponivel": true
+    },
+    {
+      "id": "pao-milho",
+      "nome": "Pão de milho",
+      "descricao": "Assado na brasa, manteiga de garrafa e melado da casa.",
+      "categoria": "Entradas",
+      "preco": 22,
+      "imagem": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=85",
+      "disponivel": true
+    },
+    {
+      "id": "carne-brasa",
+      "nome": "Carne na brasa",
+      "descricao": "Corte do dia, purê de mandioca e vinagrete de pimenta.",
+      "categoria": "Pratos principais",
+      "preco": 62,
+      "imagem": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&q=85",
+      "disponivel": true
+    },
+    {
+      "id": "peixe-litoral",
+      "nome": "Peixe do litoral",
+      "descricao": "Pesca sustentável, arroz cremoso e molho de tucupi.",
+      "categoria": "Pratos principais",
+      "preco": 58,
+      "imagem": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=900&q=85",
+      "disponivel": true
+    },
+    {
+      "id": "doce-leite",
+      "nome": "Doce de leite queimado",
+      "descricao": "Crocante de castanha e sorvete de queijo meia cura.",
+      "categoria": "Sobremesas",
+      "preco": 24,
+      "imagem": "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=900&q=85",
+      "disponivel": true
+    },
+    {
+      "id": "chocolate-cafe",
+      "nome": "Chocolate e café",
+      "descricao": "Creme intenso, farofa de café e flor de sal.",
+      "categoria": "Sobremesas",
+      "preco": 26,
+      "imagem": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=900&q=85",
+      "disponivel": true
+    }
+  ],
+  "reservas": [
+    {
+      "id": "ea2d4592-c1b7-4563-b808-aca680c1fc8d",
+      "nome": "Alessandro",
+      "email": "alessandro@gmail.com",
+      "telefone": "75982445560",
+      "data": "2026-10-02",
+      "horario": "19:30",
+      "pessoas": 2,
+      "observacoes": "",
+      "status": "pendente",
+      "criadoEm": "2026-10-01T23:36:26.471Z"
+    }
+  ],
+  "pedidos": [],
+  "avaliacoes": []
+}
