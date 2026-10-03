@@ -29,6 +29,16 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 npm install
 ```
 
+### Start the application
+
+From the repository root, run:
+
+```sh
+npm start
+```
+
+This starts the frontend at `http://localhost:5173` and the API at `http://localhost:3000`.
+
 ### Compile and Hot-Reload for Development
 
 ```sh
